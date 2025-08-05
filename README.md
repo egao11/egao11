@@ -29,6 +29,7 @@ Jupyter Notebooks • Kaggle • VS Code • GitHub • Colab
 | 📌 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
 | **GDP & CO₂ Analysis** | Analysis of global GDP vs CO₂ emissions trends using Python and Pandas | [View on GitHub](https://github.com/egao11/gdp-co2-analysis) |
+| **Global Unemployment Data Analysis (2014–2024)** |  Analysis of global unemployment trends across countries, genders, and age groups using data from Kaggle. | [View on GitHub](https://github.com/egao11/Global-Unemployment-Analysis) |
 
 _More projects coming soon..._
 
