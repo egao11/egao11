@@ -79,7 +79,7 @@ Hands-on simulated programs with leading firms:
 
 
 ---
-Languages : Javanese (native), Indonesian (native), [English](https://www.linkedin.com/in/ega-octavina/)
+Languages : Javanese (native), Indonesian (native), [English](https://cert.efset.org/Uexyx2)
 ---
 
 ### 📫 Let’s Connect!
