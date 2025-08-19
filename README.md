@@ -1,5 +1,7 @@
 # Hi, I'm Ega Octavina 👋
 
+---
+
 ## 🎓 Architecture Engineering graduate turned aspiring **Data Analyst** with strong foundations in **Python, SQL, Excel, Tableau, and Looker Studio**.  
 ## 💡 Passionate about turning raw data into insights that support smarter decision-making.  
 ## 🌍 Actively building a data portfolio and seeking remote/global roles. 
