@@ -2,11 +2,11 @@
 
 ---
 
-## 🎓 Architecture Engineering graduate turned aspiring **Data Analyst** with strong foundations in **Python, SQL, Excel, Tableau, and Looker Studio**.  
-## 💡 Passionate about turning raw data into insights that support smarter decision-making.  
-## 🌍 Actively building a data portfolio and seeking remote/global roles. 
+### 🎓 Architecture Engineering graduate turned aspiring **Data Analyst** with strong foundations in **Python, SQL, Excel, Tableau, and Looker Studio**.  
+### 💡 Passionate about turning raw data into insights that support smarter decision-making.  
+### 🌍 Actively building a data portfolio and seeking remote/global roles. 
 
-## I bring architectural precision to data structure and analysis—ready to support your team in scalable, reliable data workflows.
+### I bring architectural precision to data structure and analysis—ready to support your team in scalable, reliable data workflows.
 ---
 
 ### 🚀 Portfolio Highlights
@@ -79,6 +79,7 @@ Hands-on simulated programs with leading firms:
 
 
 ---
+Languages : Javanese (native), Indonesian (native), [English](https://www.linkedin.com/in/ega-octavina/)
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ega-octavina/)  
