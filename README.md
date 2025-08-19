@@ -23,14 +23,14 @@
 
 ### 🎓 Key Certifications
 Credible certifications from industry leaders:  
-### IBM Skills Network
+### IBM Skills Build
 - [ Data Fundamentals](https://www.credly.com/badges/48423024-092e-4c4f-8961-03297e5b6410)  
 - [Prompt Engineering for Everyone](https://courses.cognitiveclass.ai/certificates/2165e171f79b416d800afe9e583341a2)  
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ef57fbbb35a14da391713d9c1325daea)
 - - [The Art of Prompt Engineering](https://courses.cognitiveclass.ai/certificates/a2e9cda22764458fa600e2b045e528f5)
   -  [Python for Data Science](https://courses.cognitiveclass.ai/certificates/2165e171f79b416d800afe9e583341a2)
 
-### Cisco
+### Cisco 
 - [Data Analytics Essentials](https://www.credly.com/badges/0f14702d-ab08-41eb-805b-dcc8c1e16a45)
 
 ### Kaggle
