@@ -85,7 +85,7 @@ Languages : Javanese (native), Indonesian (native), [English](https://cert.efset
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ega-octavina/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egaoctavina11@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octavinaega@gmail.com)  
 [Kaggle](https://www.kaggle.com/egaoctavina)
 
 ---
