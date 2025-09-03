@@ -36,10 +36,6 @@ Credible certifications from industry leaders:
 - [Supply Chain Analytics in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/68dc48d1004e127ea24af127b3dc6312efba1c68)
 - [Marketing Analytics: Predicting Customer Churn in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/2938b2f2bf5bd09d901dde26a76e51e350b343cc)
 
-
-
-
-
 ### Cisco 
 - [Data Analytics Essentials](https://www.credly.com/badges/0f14702d-ab08-41eb-805b-dcc8c1e16a45)
 
@@ -103,6 +99,3 @@ Languages : Javanese (native), Indonesian (native), [English](https://cert.efset
 [Kaggle](https://www.kaggle.com/egaoctavina)
 
 ---
-
- *Exploring opportunities in **data entry**, **data analysis**, or **analytics-adjacent roles**—especially international or remote.  
-Architect’s precision, data’s clarity — together let’s turn metrics into meaningful impact.*
