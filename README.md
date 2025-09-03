@@ -66,6 +66,10 @@ Hands-on simulated programs with leading firms:
 - [Goldman Sachs Internal Audit](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755526110340_completion_certificate.pdf)
 - [Deloitte Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TMmzM8yoYkpBkrurd_1755509223174_completion_certificate.pdf)
 - [BCG Introduction to Data for Decision Makers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_TMmzM8yoYkpBkrurd_1755502406378_completion_certificate.pdf)
+  • Completed a job simulation focused on advising a hypothetical client on multi-        channel ad campaign performance.
+	• Analyzed customer conversion trends using simulated data to assess campaign           effectiveness across channels and audiences.
+	• Synthesized insights and delivered a clear, data-backed recommendation tailored       to the client’s marketing goals.
+
 
 ---
 
