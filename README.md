@@ -29,7 +29,16 @@ Credible certifications from industry leaders:
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ef57fbbb35a14da391713d9c1325daea)
 - [The Art of Prompt Engineering](https://courses.cognitiveclass.ai/certificates/a2e9cda22764458fa600e2b045e528f5)
 - [Python for Data Science](https://courses.cognitiveclass.ai/certificates/2165e171f79b416d800afe9e583341a2)
-- 
+  
+### Datacamp
+- [Introduction to Data Engineering](https://www.datacamp.com/completed/statement-of-accomplishment/course/3eb4b7599decefbcab2f0cdc97a19c5ec948443d)
+- [Exploratory Data Analysis in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/ea5ee74b75f3b3c40ffe3eab859e48b966f72c61)
+- [Supply Chain Analytics in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/68dc48d1004e127ea24af127b3dc6312efba1c68)
+- [Marketing Analytics: Predicting Customer Churn in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/2938b2f2bf5bd09d901dde26a76e51e350b343cc)
+
+
+
+
 
 ### Cisco 
 - [Data Analytics Essentials](https://www.credly.com/badges/0f14702d-ab08-41eb-805b-dcc8c1e16a45)
@@ -62,13 +71,12 @@ Credible certifications from industry leaders:
 Hands-on simulated programs with leading firms:  
 |  Job Position |  Experience |
 |-----------|----------------|
-| - [Accenture Consultant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_TMmzM8yoYkpBkrurd_1755529745046_completion_certificate.pdf) | ----------------|
-| - [Goldman Sachs Controllers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755515398197_completion_certificate.pdf) | ----------------|
-| - [Goldman Sachs Internal Audit](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755526110340_completion_certificate.pdf) | ----------------|
-| - [Deloitte Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TMmzM8yoYkpBkrurd_1755509223174_completion_certificate.pdf) | ----------------|
+| - [Accenture Consultant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_TMmzM8yoYkpBkrurd_1755529745046_completion_certificate.pdf) |	• Completed a job simulation involving a hypothetical Healthcare client on how to improve their mobile app.	• Reviewed a client brief and identified the most crucial priorities for the project.	• Analyzed varied data sources to make decisions about UX changes.	• Managed a project issue with the client and helped to prioritize long term initiatives. |
+| - [Goldman Sachs Controllers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755515398197_completion_certificate.pdf) |	• Completed a job simulation involving financial analysis and reporting. • Developed analytical skills through calculating Net Asset Valuation (NAV) and unitizing financial data. • Utilized Excel for detailed financial analysis, data validation, and trend analysis, leading to accurate financial reporting and reconciliation. |
+| - [Goldman Sachs Internal Audit](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755526110340_completion_certificate.pdf) |	• Completed a job simulation for Internal Audit at Goldman Sachs.	• Conducted comprehensive audits and risk assessments within the Global Banking and Markets division.	• Developed and recommended control improvements and compliance strategies, demonstrating the practical application of auditing principles. |
+| - [Deloitte Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TMmzM8yoYkpBkrurd_1755509223174_completion_certificate.pdf) | • Completed a Deloitte job simulation involving data analysis and forensic technology. • Created a data dashboard using Tableau .	• Used Excel to classify data and draw business conclusions. |
 | - [BCG Introduction to Data for Decision Makers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_TMmzM8yoYkpBkrurd_1755502406378_completion_certificate.pdf) | • Completed a job simulation focused on advising a hypothetical client on multi-channel ad campaign performance. • Analyzed customer conversion trends using simulated data to assess campaign effectiveness across channels and audiences. • Synthesized insights and delivered a clear, data-backed recommendation tailored to the client’s marketing goals. |
 
-<img width="912" height="157" alt="image" src="https://github.com/user-attachments/assets/2f4532f2-e1a9-47bb-835f-29c25a6e6329" />
 
  
 
