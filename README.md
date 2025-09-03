@@ -79,7 +79,7 @@ Hands-on simulated programs with leading firms:
 
 ---
 
-### 🛠 Tech + Analytical Toolkit
+### Tech + Analytical Toolkit
 | Area             | Tools & Technologies                        |
 |------------------|---------------------------------------------|
 | Data Wrangling   | Python (pandas, NumPy), Kaggle Notebooks    |
