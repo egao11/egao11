@@ -2,15 +2,15 @@
 
 ---
 
-### 🎓 Architecture Engineering graduate turned aspiring **Data Analyst** with strong foundations in **Python, SQL, Excel, Tableau, and Looker Studio**.  
-### 💡 Passionate about turning raw data into insights that support smarter decision-making.  
-### 🌍 Actively building a data portfolio and seeking remote/global roles. 
+###  Architecture Engineering graduate turned aspiring **Data Analyst** with strong foundations in **Python, SQL, Excel, Tableau, and Looker Studio**.  
+###  Passionate about turning raw data into insights that support smarter decision-making.  
+###  Actively building a data portfolio and seeking remote/global roles. 
 
 ### I bring architectural precision to data structure and analysis—ready to support your team in scalable, reliable data workflows.
 ---
 
-### 🚀 Portfolio Highlights
-| 📌 Project | 🔍 Description | 🔗 Link |
+###  Portfolio Highlights
+|  Project |  Description |  Link |
 |-----------|----------------|--------|
 | **Medical Appointments No-Show** | Healthcare analytics: visualized patient attendance trends across age, health conditions, and reminders. | [View on GitHub](https://github.com/egao11/Medical-Appointments-No-Show) |
 | **IBM HR Attrition & Performance** | Turnover analysis by job role, tenure, pay, and satisfaction—kept HR decision-makers in mind. |[View on GitHub](https://github.com/egao11/IBM-HR-Analytics-Employee-Attrition-Performance) |
@@ -21,7 +21,7 @@
 
 ---
 
-### 🎓 Key Certifications
+###  Key Certifications
 Credible certifications from industry leaders:  
 ### IBM Skills Build
 - [ Data Fundamentals](https://www.credly.com/badges/48423024-092e-4c4f-8961-03297e5b6410)  
@@ -58,17 +58,19 @@ Credible certifications from industry leaders:
 
 ---
 
-### 💼 Virtual Work Experience (Forage)
+###  Virtual Work Experience (Forage)
 Hands-on simulated programs with leading firms:  
+|  Job Position |  Experience |
+|-----------|----------------|
+| - [Accenture Consultant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_TMmzM8yoYkpBkrurd_1755529745046_completion_certificate.pdf) | ----------------|
+| - [Goldman Sachs Controllers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755515398197_completion_certificate.pdf) | ----------------|
+| - [Goldman Sachs Internal Audit](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755526110340_completion_certificate.pdf) | ----------------|
+| - [Deloitte Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TMmzM8yoYkpBkrurd_1755509223174_completion_certificate.pdf) | ----------------|
+| - [BCG Introduction to Data for Decision Makers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_TMmzM8yoYkpBkrurd_1755502406378_completion_certificate.pdf) | • Completed a job simulation focused on advising a hypothetical client on multi-channel ad campaign performance. • Analyzed customer conversion trends using simulated data to assess campaign effectiveness across channels and audiences. • Synthesized insights and delivered a clear, data-backed recommendation tailored to the client’s marketing goals. |
 
-- [Accenture Consultant](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_TMmzM8yoYkpBkrurd_1755529745046_completion_certificate.pdf)  
-- [Goldman Sachs Controllers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755515398197_completion_certificate.pdf)
-- [Goldman Sachs Internal Audit](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_TMmzM8yoYkpBkrurd_1755526110340_completion_certificate.pdf)
-- [Deloitte Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_TMmzM8yoYkpBkrurd_1755509223174_completion_certificate.pdf)
-- [BCG Introduction to Data for Decision Makers](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_TMmzM8yoYkpBkrurd_1755502406378_completion_certificate.pdf)
-  • Completed a job simulation focused on advising a hypothetical client on multi-        channel ad campaign performance.
-	• Analyzed customer conversion trends using simulated data to assess campaign           effectiveness across channels and audiences.
-	• Synthesized insights and delivered a clear, data-backed recommendation tailored       to the client’s marketing goals.
+<img width="912" height="157" alt="image" src="https://github.com/user-attachments/assets/2f4532f2-e1a9-47bb-835f-29c25a6e6329" />
+
+ 
 
 
 ---
@@ -87,12 +89,12 @@ Hands-on simulated programs with leading firms:
 Languages : Javanese (native), Indonesian (native), [English](https://cert.efset.org/Uexyx2)
 ---
 
-### 📫 Let’s Connect!
+###  Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ega-octavina/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octavinaega@gmail.com)  
 [Kaggle](https://www.kaggle.com/egaoctavina)
 
 ---
 
-✨ *Exploring opportunities in **data entry**, **data analysis**, or **analytics-adjacent roles**—especially international or remote.  
+ *Exploring opportunities in **data entry**, **data analysis**, or **analytics-adjacent roles**—especially international or remote.  
 Architect’s precision, data’s clarity — together let’s turn metrics into meaningful impact.*
