@@ -1,4 +1,4 @@
-# Hi, I'm Ega Octavina 👋
+# Hi, I'm Ega Octavina
 
 ---
 
