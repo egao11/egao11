@@ -6,7 +6,7 @@
 ###  Passionate about turning raw data into insights that support smarter decision-making.  
 ###  Actively building a data portfolio and seeking remote/global roles. 
 
-### I bring architectural precision to data structure and analysis—ready to support your team in scalable, reliable data workflows.
+### I bring architectural precision to data structure and analysis—ready to support your team in scalable, reliable data workflows. Check out my Design Portfolio | [Here](https://drive.google.com/drive/folders/1Do0eCbYdFtYVAJZcLhFkRiHluvVABUF-?usp=sharing) |
 ---
 
 ###  Portfolio Highlights
